@@ -1,0 +1,2 @@
+# .config
+Its my dotifles
